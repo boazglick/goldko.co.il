@@ -90,7 +90,7 @@ module.exports = {
   },
   siteTitle: "goldko",
   siteDescription:
-    "buzz-tv66",
+    "goldko",
   language: "he",
   logoUrl: "logo.png",
   iconUrl: "favicon.png",
