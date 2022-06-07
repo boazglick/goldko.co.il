@@ -92,6 +92,7 @@ module.exports = {
   siteDescription:
     "goldko",
   language: "he",
+  direction: "rtl",
   logoUrl: "logo.png",
   iconUrl: "favicon.png",
   coverUrl: "cover.jpg",
