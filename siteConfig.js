@@ -142,7 +142,7 @@ module.exports = {
     	 stylesheets: [
     'https://goldko.ussl.info/style.css',
     {
-      href: 'http://css.link',
+      href: 'https://goldko.ussl.info/style.css',
       type: 'text/css',
     },
   ],
