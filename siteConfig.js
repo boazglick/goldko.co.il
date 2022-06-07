@@ -101,24 +101,17 @@ module.exports = {
     variables: [
       {
         varName: "--primary-color",
-        value: `#2b6cb0`,
+        value: `#ff0030`,
       },
       {
         varName: "--primary-color-active",
-        value: `#2a4365`,
+        value: `#ff0030`,
       },
       {
         varName: "--primary-color-light",
-        value: `#bee3f8`,
+        value: `#ff0030`,
       },
      
-      
-      
-    
-    
-     
-      
-    
     
     ],
     	 stylesheets: [
@@ -128,9 +121,7 @@ module.exports = {
       type: 'text/css',
     },
   ],
-      stylesheets: [
-  'https://fonts.googleapis.com/css2?family=Assistant:wght@200;300&family=Montserrat+Alternates:wght@100&display=swap',
-],
+
    
   },
 };
