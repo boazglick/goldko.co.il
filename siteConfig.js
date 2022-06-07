@@ -140,7 +140,7 @@ module.exports = {
       { varName: "--serif-font-bold", value: `700` },
     ],
     	 stylesheets: [
-    'https://goldko.co.il/style.css',
+    'https://goldko.ussl.info/style.css',
     {
       href: 'http://css.link',
       type: 'text/css',
