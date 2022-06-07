@@ -135,9 +135,8 @@ module.exports = {
         varName: "--serif-font",
         value: `Assistant`,
       },
-      { varName: "--serif-font-light", value: `400` },
-      { varName: "--serif-font-normal", value: `400` },
-      { varName: "--serif-font-medium", value: `400` },
+      
+    
       { varName: "--serif-font-bold", value: `700` },
     ],
     fonts: [
