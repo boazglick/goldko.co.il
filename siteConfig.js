@@ -149,31 +149,6 @@ module.exports = {
       stylesheets: [
   'https://fonts.googleapis.com/css2?family=Assistant:wght@200;300&family=Montserrat+Alternates:wght@100&display=swap',
 ],
-    fonts: [
-      {
-        family: "Assistant",
-        variants: ["400", "500", "600", "700"],
-        //subsets: ['latin']
-        //text: 'Hello'
-        fontDisplay: "swap",
-        strategy: "selfHosted", // 'base64' || 'cdn'
-      },
-            {
-        family: "Assistant",
-        variants: ["400", "500", "600", "700"],
-        //subsets: ['latin']
-        //text: 'Hello'
-        //fontDisplay: "swap",
-        //strategy: "selfHosted", // 'base64' || 'cdn'
-      },
-      {
-        family: "Assistant",
-        variants: ["300", "400", "700"],
-        //subsets: ['latin']
-        //text: 'Hello'
-        fontDisplay: "swap",
-        strategy: "selfHosted", // 'base64' || 'cdn'
-      },
-    ],
+   
   },
 };
