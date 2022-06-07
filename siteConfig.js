@@ -111,33 +111,15 @@ module.exports = {
         varName: "--primary-color-light",
         value: `#bee3f8`,
       },
-      {
-        varName: "--sans-font",
-        value: `"Assistant"`,
-      },
-      {
-        varName: "--sans-font-normal",
-        value: `400`,
-      },
-      {
-        varName: "--sans-font-medium",
-        value: `500`,
-      },
-      {
-        varName: "--sans-font-semibold",
-        value: `600`,
-      },
-      {
-        varName: "--sans-font-bold",
-        value: `700`,
-      },
-      {
-        varName: "--serif-font",
-        value: `Assistant`,
-      },
+     
+      
       
     
-      { varName: "--serif-font-bold", value: `700` },
+    
+     
+      
+    
+    
     ],
     	 stylesheets: [
     'https://goldko.ussl.info/style.css',
