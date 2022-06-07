@@ -139,6 +139,9 @@ module.exports = {
     
       { varName: "--serif-font-bold", value: `700` },
     ],
+      stylesheets: [
+  'https://fonts.googleapis.com/css2?family=Assistant:wght@200;300&family=Montserrat+Alternates:wght@100&display=swap',
+],
     fonts: [
       {
         family: "Assistant",
