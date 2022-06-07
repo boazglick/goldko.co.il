@@ -139,6 +139,13 @@ module.exports = {
     
       { varName: "--serif-font-bold", value: `700` },
     ],
+    	 stylesheets: [
+    'https://goldko.co.il/style.css',
+    {
+      href: 'http://css.link',
+      type: 'text/css',
+    },
+  ],
       stylesheets: [
   'https://fonts.googleapis.com/css2?family=Assistant:wght@200;300&family=Montserrat+Alternates:wght@100&display=swap',
 ],
