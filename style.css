@@ -12,3 +12,7 @@ body{
    font-family:'Assistant' !important;
   font-size:5px !important;
 }
+body {
+    margin: 0;
+    direction: rtl;
+}
