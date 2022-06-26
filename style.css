@@ -1,4 +1,4 @@
-html{
+html {
 	direction:rtl !important;
   text-align:right !important;
   float:right !important;
@@ -6,13 +6,9 @@ html{
   font-size:5px !important;
 }
 
-body{
+body {
   	direction:rtl !important;
   text-align:right !important;
    font-family:'Assistant' !important;
   font-size:5px !important;
-}
-body {
-    margin: 0;
-    direction: rtl;
 }
